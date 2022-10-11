@@ -5,3 +5,7 @@
 .table_spacing {
   margin-top: 16px;
 }
+
+.ag-theme-alpine .ag-text-field-input {
+  color: black !important;
+}
